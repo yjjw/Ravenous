@@ -1,7 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from '../../logo.svg';
 import './App.css';
+import BusinessList from "../BusinessList/BusinessList";
+import SearchBar from "../SearchBar/SearchBar";
+import {render} from "react-dom";
 
+class App extends React.Component{
+  render(){
+    return (
+        <div className="App">
+          <h1>ravenous</h1>
+          <SearchBar />
+          <BusinessList />
+        </div>
+    );
+  }
+}
+/*
 function App() {
   return (
     <div className="App">
@@ -22,5 +37,5 @@ function App() {
     </div>
   );
 }
-
+*/
 export default App;
