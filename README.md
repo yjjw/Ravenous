@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a restaurant searching web application created with Reactand and Yelp API is used. 
 
 ## Available Scripts
 
