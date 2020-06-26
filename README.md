@@ -1,6 +1,7 @@
+### Descriptions
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br/>
-This is a restaurant searching web application created with Reactand and Yelp API is used.<br />
-Users can type in the foods,location,as well as picking selection criteria.
+This is a restaurant searching web application created with React and and Yelp API is used.<br />
+Users can type in the foods,location,and pick one of "best match" "highest rated" as well as "most reviewed" as selection criteria.
 
 ## Available Scripts
 
